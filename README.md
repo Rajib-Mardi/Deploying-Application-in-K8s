@@ -49,7 +49,8 @@ b. Deploy nginx App in the Namespace:
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://github.com/Rajib-Mardi/ansible-projects/assets/96679708/937e7f41-8f5f-4e20-ab9b-0c468c618c80" width="800">
+<img src="https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/6aa3b3d6-0902-4fd5-b912-66374dc43f7d" width="800">
+
 
 ---------------------------------------------------------------------------------------------------
 
