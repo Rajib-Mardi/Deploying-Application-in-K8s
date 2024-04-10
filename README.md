@@ -46,11 +46,13 @@ b. Deploy nginx App in the Namespace:
 
 <img src="https://github.com/Rajib-Mardi/ansible-projects/assets/96679708/89d0f3e9-4334-48b9-8d28-45f901967ffc" width="800">
 
-
+--------------------------------------------------------------------------------------------------------------------------------
 
 <img src="https://github.com/Rajib-Mardi/ansible-projects/assets/96679708/937e7f41-8f5f-4e20-ab9b-0c468c618c80" width="800">
 
+---------------------------------------------------------------------------------------------------
 
 ![Welcome to nginx! - Google Chrome 25-10-2023 19_11_19](https://github.com/Rajib-Mardi/ansible-projects/assets/96679708/c31f96e7-214d-4062-8329-d608f87b8ef2)
 
+---------------------------------------------------------------------------
 
