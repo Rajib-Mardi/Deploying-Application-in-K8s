@@ -1,7 +1,7 @@
 
 ------------------------------
 
-### Project: 
+### Demo Project: 
    * Automate Kubernetes Deployment
 ### Technologiesused: 
    * Ansible, Terraform, Kubernetes, AWS EKS, Python, Linux
