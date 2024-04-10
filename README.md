@@ -54,7 +54,11 @@ b. Deploy nginx App in the Namespace:
 
 ---------------------------------------------------------------------------------------------------
 
-![Welcome to nginx! - Google Chrome 25-10-2023 19_11_19](https://github.com/Rajib-Mardi/ansible-projects/assets/96679708/c31f96e7-214d-4062-8329-d608f87b8ef2)
+
+<img src="https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/f402894f-c32a-49e0-9875-d7c4f1888de4" width="800">
+
+
+
 
 ---------------------------------------------------------------------------
 
